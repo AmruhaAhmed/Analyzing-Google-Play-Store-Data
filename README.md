@@ -2,6 +2,9 @@
 
 I have performed an in-depth analysis of Google Play Store data to understand the factors contributing to an app's success, such as user ratings, number of installs, and category trends. This analysis aims to help developers and businesses optimize their app offerings.
 
+![image](https://github.com/user-attachments/assets/676464ff-8fef-4551-8832-aa9fd70a7a92)
+
+
 ## 📁 Datasets Used
 
 Link to the datasets: [Kaggle - Google Play Store Data](https://www.kaggle.com/datasets/utshabkumarghosh/android-app-market-on-google-play)
